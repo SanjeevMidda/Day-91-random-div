@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+}
+
+body{
+    height: 100vh;
+    overflow: hidden;
+}
+
+.box{
+    border: 1px solid black;
+    border-radius: 40px;
+    position: absolute;
+}
